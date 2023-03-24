@@ -2,3 +2,6 @@
 
 Taty vládnu já.
 OK
+
+
+Sluníčko nesvítí
