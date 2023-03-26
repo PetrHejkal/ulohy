@@ -5,3 +5,5 @@ def f(x):
 print("cau")
 
 print("Čus") #zkouška doma
+
+#pokus hokus
