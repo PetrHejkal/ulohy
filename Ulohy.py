@@ -9,3 +9,4 @@ print("Čus") #zkouška doma
 #pokus hokus
 
 #pokus2
+#musím zkusit ještě
